@@ -1,1 +1,7 @@
-
+{
+  "files": [
+    "cc1101rf.h",
+    "cc1101rf.cpp"
+  ],
+  "dependencies": []
+}
